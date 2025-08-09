@@ -7,7 +7,7 @@ This project analyzes a coffee shop's sales dataset to:
 - Provide recommendations for increasing profits and reducing losses.
 
 ## Files
-- `coffee_shop_sales_analysis.ipynb` – Colab/Jupyter notebook with all analysis steps.
+- `Coffee Shop Sales Profitability & Forecast Analysis.ipynb` – Colab/Jupyter notebook with all analysis steps.
 - `coffee_shop_sales_cleaned.csv` – Cleaned dataset used in analysis.
 
 ## Requirements
